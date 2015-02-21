@@ -2,9 +2,6 @@ from WebFilter import *
 
 # strCommands.py 
 # University of Waterloo
-# CS 234 A3: 2a,2b
-# Thuy Tien (Teyden) Nguyen 
-# ID: 20337534
 
 
 # getValue(str, str) --> str
