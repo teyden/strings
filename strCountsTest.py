@@ -80,12 +80,10 @@ def main():
     print("*Please enter 1 or 0*")    
     if raw_input("Answer: ") == '1':
         print("\nPassed Test 6, report: correct print statement\r\n" + \
-        "\nCongratulations, you've made it to the end of" + \
-        " the testing module! Until next time, Mr./Ms. Marker!" + \
-        " Have yourself a good day :)\n")
+        "\nCongratulations, you've made it to the end.\n")
     else: 
         print("\nFailed Test 7, report: incorrect print statement\r\n" + \
-        "\nOh no! My program failed the last test. Must debug.")
+        "\nFINAL TEST FAILED: EXIT 0")
 
         
 
